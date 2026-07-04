@@ -1,5 +1,5 @@
 
-# PosenNigmaFinal — AI Social Media Auto-Poster
+AI Social Media Auto-Poster
 
 An **n8n workflow** that fully automates daily social media content creation and posting for a product brand ([TheBitz420](https://thebitz420.io)). Every day it picks a product, generates a fresh AI product photo, an AI video, and platform-specific captions — then posts automatically to **Facebook** and **Instagram**, alternating image/video between the two platforms each day.
 
